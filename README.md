@@ -3,6 +3,7 @@
 
 
 You have to first create a facecbook account and change the credentials in the code. 
+Additionally, be sure to update your webdriver and chrome to the same drivers
 
 
 ##  Overview
