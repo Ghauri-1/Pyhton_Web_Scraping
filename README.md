@@ -1,12 +1,9 @@
-# Pyhton_Web_Scraping
-Automated Facebook interaction bot using Python &amp; Selenium. Features login automation, dynamic DOM handling, content extraction, and post engagement. Includes human-like typing, error handling, and scalable logic for multi-post interaction.
+# Pyhton Web Scraping Automation Bot
+*Automated Facebook interaction tool using Python and Selenium.*
+
 
 You have to first create a facecbook account and change the credentials in the code. 
 
-
-
-# Facebook Automation Bot 🤖
-*Automated Facebook interaction tool using Python and Selenium.*
 
 ## 📌 Overview
 This project is an automated interaction bot designed for research and educational purposes. It features login automation, dynamic DOM handling for changing Facebook layouts, and human-like typing to simulate real user behavior.
