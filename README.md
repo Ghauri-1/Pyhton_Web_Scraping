@@ -6,7 +6,7 @@ You have to first create a facecbook account and change the credentials in the c
 
 
 ##  Overview
-This project is an automated interaction bot designed for research and educational purposes. It features login automation, dynamic DOM handling for changing Facebook layouts, and human-like typing to simulate real user behavior.
+This project is an automated interaction bot designed for research and educational purposes. It features login automation, dynamic DOM handling for changing Facebook layouts, and human-like typing to demonstrate timing and interaction strategies in automated web testing, simulating real user behavior.
 
 ##  Key Features
 * **Automated Login**: Securely handles authentication.
