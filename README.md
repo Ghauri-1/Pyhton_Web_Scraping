@@ -27,7 +27,7 @@ This project is an automated interaction bot designed for research and education
    - Add your credentials: `FB_EMAIL=your_email`, `FB_PASS=your_password`.
 4. **Run the script**: `python main.py`
 
-##  Important Point Disclaimer
+##  Important Point to Notice / Disclaimer
 This project is strictly for **educational and research purposes**. Using automation tools on Facebook may violate their [Terms of Service](https://www.facebook.com). The author is not responsible for any account suspensions or consequences resulting from the use of this software.
 
 ##  Future Improvements
